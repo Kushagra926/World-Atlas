@@ -1,0 +1,80 @@
+[
+  {
+      "id": 1,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": "1.4 billion",
+      "interestingFact": "India is the world's largest democracy."
+    },
+  {
+      "id": 2,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": "109 million",
+      "interestingFact": "Egypt is home to the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World."
+    },
+    
+  {
+    "id": 3,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": "331 million",
+    "interestingFact": "The U.S. has no official language at the federal level, though English is the most spoken."
+  },
+  {
+    "id": 4,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": "1.41 billion",
+    "interestingFact": "China has the longest continuous civilization, dating back over 3,500 years."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "214 million",
+    "interestingFact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world's oxygen."
+  },
+  {
+    "id": 6,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": "83 million",
+    "interestingFact": "Germany is known for its engineering excellence and is the largest economy in Europe."
+  },
+  {
+    "id": 7,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "26 million",
+    "interestingFact": "Australia is home to more than 10,000 beaches."
+  },
+  {
+    "id": 8,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "125 million",
+    "interestingFact": "Tokyo is the most populous metropolitan area in the world."
+  },
+  {
+    "id": 9,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": "67 million",
+    "interestingFact": "France is the most visited country in the world, attracting over 89 million tourists annually."
+  },
+  {
+    "id": 10,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": "67 million",
+    "interestingFact": "The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland."
+  },
+  {
+      "id": 11,
+      "countryName": "Nepal",
+      "capital": "Kathmandu",
+      "population": 29609623,
+      "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters."
+    }
+]
